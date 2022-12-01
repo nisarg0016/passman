@@ -2,7 +2,7 @@
 A simple password manager made in Python using sqlite3.
 
 ## Requirements
-• Python 3.8 +
+• Python 3.8+
 
 ## Installation
 First clone or download the source code, open a terminal window in the source code folder and then execute this command to install the dependencies.
