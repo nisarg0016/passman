@@ -1,0 +1,4 @@
+getpass4==0.0.14.1
+platformdirs==2.5.2
+pyperclip==1.8.2
+pyperclip3==0.4.1
